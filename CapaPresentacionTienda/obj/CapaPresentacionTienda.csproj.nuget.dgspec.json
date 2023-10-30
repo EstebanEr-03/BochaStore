@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaPresentacionTienda\\CapaPresentacionTienda.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaDatos\\CapaDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaDatos\\CapaDatos.csproj",
+        "projectName": "CapaDatos",
+        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaDatos\\CapaDatos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaEntidad\\CapaEntidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaEntidad\\CapaEntidad.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaEntidad\\CapaEntidad.csproj",
+        "projectName": "CapaEntidad",
+        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaEntidad\\CapaEntidad.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaNegocio\\CapaNegocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaNegocio\\CapaNegocio.csproj",
+        "projectName": "CapaNegocio",
+        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaNegocio\\CapaNegocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaDatos\\CapaDatos.csproj"
+              },
+              "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaEntidad\\CapaEntidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaPresentacionTienda\\CapaPresentacionTienda.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaPresentacionTienda\\CapaPresentacionTienda.csproj",
+        "projectName": "CapaPresentacionTienda",
+        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaPresentacionTienda\\CapaPresentacionTienda.csproj",
+        "packagesPath": "C:\\Users\\esteb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaPresentacionTienda\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\esteb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaEntidad\\CapaEntidad.csproj"
+              },
+              "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaNegocio\\CapaNegocio.csproj": {
+                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Quinto Semestr\\Progra IV\\BochaStore\\CapaNegocio\\CapaNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Font.Awesome": {
+              "target": "Package",
+              "version": "[5.15.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "SweetAlert.Bootstrap": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            },
+            "jQuery.LoadingOverlay": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
